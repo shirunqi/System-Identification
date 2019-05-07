@@ -1,0 +1,2 @@
+利用MATLAB参数辨识工具箱“System Identification”进行参数辨识
+.sid文件使用MATLAB自带的系统辨识工具箱打开
